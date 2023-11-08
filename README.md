@@ -26,24 +26,12 @@ Siga estas etapas para começar a usar o design limpo e moderno em seu projeto:
 
 4. Integre o design personalizado em seu site de aluguel de carros para criar uma experiência de usuário visualmente atraente.
 
-## Exemplos de Telas
+## Exemplos de Tela
 
-![Página de Listagem de Carros](car-listing-screenshot.png)
-
-![Página de Detalhes do Carro](car-details-screenshot.png)
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar este projeto.
-
-## Licença
-
-Este projeto é licenciado sob a [Sua Licença Aqui](LICENSE). Sinta-se à vontade para modificar a licença de acordo com as necessidades de seu projeto.
+![Página de Listagem de Carros](previa.png)
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de suporte, entre em contato conosco em [seu@email.com](mailto:seu@email.com).
+Se você tiver alguma dúvida ou precisar de suporte, entre em contato conosco em caue.frontdev@gmail.com (mailto:caue.frontdev@gmail.com).
 
----
-
-Este projeto é desenvolvido e mantido por [Seu Nome](https://github.com/seu-nome).
+Este projeto é desenvolvido e mantido por Cauê Felipe (https://github.com/Cauefrontdev).
