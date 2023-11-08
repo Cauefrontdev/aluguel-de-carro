@@ -1,6 +1,6 @@
 # Site de Aluguel de Carros
 
-![Página Inicial](home-screenshot.png)
+![Página Inicial](previa1.png)
 
 Este repositório contém um projeto de site de aluguel de carros, desenvolvido com um design limpo e moderno, destacando a estética e a usabilidade. Este projeto se concentra exclusivamente no design, não incluindo funcionalidades de back-end.
 
